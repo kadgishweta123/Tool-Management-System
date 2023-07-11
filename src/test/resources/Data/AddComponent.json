@@ -1,0 +1,32 @@
+{ 
+
+"ValidData":
+{ 
+	"componentName": "Washing machine",
+	"componentCode": "ABC@123",
+	"componentMaterial":"Stainless Steel",
+	"componentDescription": "Really useful"
+},
+
+"InvalidData":
+{ 
+
+	"componentName": "123",
+	"componentCode": "!@#",
+	"componentMaterial":"12323",
+	"componentDescription": "123232"
+
+},
+
+"BlankData":
+{ 
+
+	"componentName": "   ",
+	"componentCode": "   ",
+	"componentMaterial":"    ",
+	"componentDescription": "   "
+
+}
+
+
+}

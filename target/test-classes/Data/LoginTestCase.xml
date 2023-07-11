@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="signIn" verbose ="1">
+	<test name ="LoginTestCase">
+	<parameter name ="browser" value ="chrome"/>
+	<parameter name ="url" value ="http://tms.pisystindia.com/siteengineer/login"></parameter>
+	<classes>
+					
+		<class name ="testCase.LoginTestCase"></class>
+	</classes>
+	</test>
+</suite>

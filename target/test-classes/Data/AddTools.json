@@ -1,0 +1,31 @@
+{ 
+"ValidData":
+{ 
+	"toolNo":"123",
+	"toolName" : "Hammer",
+	"toolMake" : "Shweta",
+	"toolDesc" : "Used for hammering",
+	"other" : "It is a multi-purpose tool"
+	
+},
+
+"InvalidData":
+{ 
+	"toolNo":"!@#",
+	"toolName" : "123",
+	"toolMake" : "@#$",
+	"toolDesc" : "1234",
+	"other" : "123"
+	
+},
+
+"BlankData":
+{ 
+	"toolNo":"   ",
+	"toolName" : "  ",
+	"toolMake" : "  ",
+	"toolDesc" : "  ",
+	"other" : "  "
+	
+}
+}

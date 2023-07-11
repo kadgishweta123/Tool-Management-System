@@ -1,0 +1,22 @@
+{
+"ValidData":
+{ 
+	"Email":"siteengineer@gmail.com",
+	"Password":"123456"
+},
+"InvalidData":
+{ 
+	"Email":"siteengineer@gmail.com",
+	"Password":"ABC@123"
+},
+"SpecialSymbols":
+{ 
+	"Email":"!@#$@@#@#@@@@@.com",
+	"Password":"@#$#@$#"
+},
+"AlphaNumeric":
+{ 
+	"Email":"siteengineer1234gmail.com",
+	"Password":"ABC123"
+}
+}
